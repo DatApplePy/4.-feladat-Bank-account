@@ -1,5 +1,5 @@
 #include <iostream>
-#include "enor.h"
+#include "Enor.h"
 
 int main()
 {
